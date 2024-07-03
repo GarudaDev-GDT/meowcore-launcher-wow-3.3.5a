@@ -3,4 +3,4 @@ Luncher which enables user to download on web-specified files and folders into h
 
 Deployment manual: read the `Manual.rtf`
 
-Refrenced Website Content: (ExampleWebFolder)[https://github.com/Amaroth/WoWMod-Launcher/tree/master/ExampleWebFolder]
+Refrenced Website Content: [ExampleWebFolder]([ExampleWebFolder](https://github.com/Amaroth/WoWMod-Launcher/tree/master/ExampleWebFolder))
