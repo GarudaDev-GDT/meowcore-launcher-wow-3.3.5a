@@ -1,0 +1,16 @@
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\bin\Release\SinmeowgraLauncher.exe.config
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\bin\Release\SinmeowgraLauncher.exe
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\bin\Release\SinmeowgraLauncher.pdb
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\SinmeowLauncher.csproj.AssemblyReference.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\SinmeowLauncher.csproj.SuggestedBindingRedirects.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\Interop.Shell32.dll
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\SinmeowLauncher.csproj.ResolveComReference.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\AmarothLauncher.GUI.ChangelogBrowser.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\AmarothLauncher.GUI.ChangelogEditor.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\AmarothLauncher.GUI.FTPLoginWindow.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\AmarothLauncher.MainWindow.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\SinmeowgraLauncher.Properties.Resources.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\SinmeowLauncher.csproj.GenerateResource.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\SinmeowLauncher.csproj.CoreCompileInputs.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\SinmeowgraLauncher.exe
+E:\Sinmeow Launcher 1\WoWMod-Launcher\SinmeowLauncher\obj\Release\SinmeowgraLauncher.pdb

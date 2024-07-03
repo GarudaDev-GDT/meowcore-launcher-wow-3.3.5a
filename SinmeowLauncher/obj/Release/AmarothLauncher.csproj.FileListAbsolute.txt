@@ -1,0 +1,44 @@
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\bin\Release\AmarothLauncher.exe.config
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\Interop.Shell32.dll
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.csproj.ResolveComReference.cache
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\bin\Release\AmarothLauncher.exe
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\bin\Release\AmarothLauncher.pdb
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.csprojResolveAssemblyReference.cache
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.GUI.ChangelogBrowser.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.GUI.ChangelogEditor.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.GUI.FTPLoginWindow.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.MainWindow.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.Properties.Resources.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.csproj.GenerateResource.Cache
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.exe
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothLauncher\obj\Release\AmarothLauncher.pdb
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\bin\Release\AmarothLauncher.exe.config
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\Interop.Shell32.dll
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.csproj.ResolveComReference.cache
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.exe
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.pdb
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\bin\Release\AmarothLauncher.exe
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\bin\Release\AmarothLauncher.pdb
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.csprojResolveAssemblyReference.cache
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.GUI.ChangelogBrowser.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.GUI.ChangelogEditor.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.GUI.FTPLoginWindow.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.MainWindow.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.Properties.Resources.resources
+D:\ProgramyC#\WoWModding\AmarothLauncher\AmarothsLauncherRelease\src\AmarothLauncher\obj\Release\AmarothLauncher.csproj.GenerateResource.Cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\AmarothLauncher.csproj.AssemblyReference.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\AmarothLauncher.csproj.SuggestedBindingRedirects.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\Interop.Shell32.dll
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\AmarothLauncher.csproj.ResolveComReference.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\AmarothLauncher.GUI.ChangelogBrowser.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\AmarothLauncher.GUI.ChangelogEditor.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\AmarothLauncher.GUI.FTPLoginWindow.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\AmarothLauncher.MainWindow.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\AmarothLauncher.csproj.GenerateResource.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\AmarothLauncher.csproj.CoreCompileInputs.cache
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\bin\Release\SinmeowgraLauncher.exe.config
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\bin\Release\SinmeowgraLauncher.exe
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\bin\Release\SinmeowgraLauncher.pdb
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\SinmeowgraLauncher.Properties.Resources.resources
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\SinmeowgraLauncher.exe
+E:\Sinmeow Launcher 1\WoWMod-Launcher\AmarothLauncher\obj\Release\SinmeowgraLauncher.pdb
